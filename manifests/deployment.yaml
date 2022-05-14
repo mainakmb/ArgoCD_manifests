@@ -18,7 +18,7 @@ spec:
         app: flaskapp
     spec:
       containers:
-        - image: 840448912054.dkr.ecr.us-east-1.amazonaws.com/flask_test:48
+        - image: 840448912054.dkr.ecr.us-east-1.amazonaws.com/flask_test:49
           name: flaskapp
           resources: {}
 status: {}
