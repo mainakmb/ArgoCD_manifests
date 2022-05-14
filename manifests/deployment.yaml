@@ -20,7 +20,7 @@ spec:
       imagePullSecrets:
         - name: regcred
       containers:
-        - image: 840448912054.dkr.ecr.us-east-1.amazonaws.com/flask_test:52
+        - image: 840448912054.dkr.ecr.us-east-1.amazonaws.com/flask_test:53
           name: flaskapp
           resources: {}
 status: {}
